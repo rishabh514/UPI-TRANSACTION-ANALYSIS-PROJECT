@@ -1,4 +1,3 @@
-markdown
 # UPI Ecosystem Intelligence Dashboard (2016–2025)
 
 ## Project Overview

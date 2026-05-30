@@ -1,0 +1,7 @@
+fiscal_year,fraud_cases,fraud_value_crores,total_txn_volume_billions,fraud_rate_per_million_txn,avg_fraud_value_lakhs
+FY2019-20,3086,128.0,12.5,0.247,4.15
+FY2020-21,4071,155.0,22.3,0.182,3.81
+FY2021-22,6523,253.0,45.6,0.143,3.88
+FY2022-23,14483,573.0,83.7,0.173,3.96
+FY2023-24,19520,724.0,131.0,0.149,3.71
+FY2024-25,15890,612.0,175.0,0.091,3.85
